@@ -1,0 +1,5 @@
+name: "PMBus Sensor"
+description: "ESPHome PMBus I2C Sensor for LMF1500-20Bxx Power Supply"
+version: "1.0.0"
+requirements: []
+dependencies: ["i2c"]
